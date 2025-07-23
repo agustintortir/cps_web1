@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Local-Admin\\source\\repos\\cps_web1\\PracticaClases\\",
+  "WorkspaceRootPath": "C:\\Users\\Local-Admin\\source\\repos\\cps-practica\\PracticaClases\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3397061E-1501-CC8D-87F0-57BFA7E2967C}|PracticaClases.csproj|c:\\users\\local-admin\\source\\repos\\cps_web1\\practicaclases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3397061E-1501-CC8D-87F0-57BFA7E2967C}|PracticaClases.csproj|c:\\users\\local-admin\\source\\repos\\cps-practica\\practicaclases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3397061E-1501-CC8D-87F0-57BFA7E2967C}|PracticaClases.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3397061E-1501-CC8D-87F0-57BFA7E2967C}|PracticaClases.csproj|c:\\users\\local-admin\\source\\repos\\cps_web1\\practicaclases\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3397061E-1501-CC8D-87F0-57BFA7E2967C}|PracticaClases.csproj|c:\\users\\local-admin\\source\\repos\\cps-practica\\practicaclases\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3397061E-1501-CC8D-87F0-57BFA7E2967C}|PracticaClases.csproj|solutionrelative:libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3397061E-1501-CC8D-87F0-57BFA7E2967C}|PracticaClases.csproj|c:\\users\\local-admin\\source\\repos\\cps_web1\\practicaclases\\else\u00F1ordelosanillos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3397061E-1501-CC8D-87F0-57BFA7E2967C}|PracticaClases.csproj|c:\\users\\local-admin\\source\\repos\\cps-practica\\practicaclases\\else\u00F1ordelosanillos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3397061E-1501-CC8D-87F0-57BFA7E2967C}|PracticaClases.csproj|solutionrelative:else\u00F1ordelosanillos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3397061E-1501-CC8D-87F0-57BFA7E2967C}|PracticaClases.csproj|c:\\users\\local-admin\\source\\repos\\cps_web1\\practicaclases\\harrypotter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3397061E-1501-CC8D-87F0-57BFA7E2967C}|PracticaClases.csproj|c:\\users\\local-admin\\source\\repos\\cps-practica\\practicaclases\\harrypotter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3397061E-1501-CC8D-87F0-57BFA7E2967C}|PracticaClases.csproj|solutionrelative:harrypotter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,15 +32,14 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "HarryPotter.cs",
-              "DocumentMoniker": "C:\\Users\\Local-Admin\\source\\repos\\cps_web1\\PracticaClases\\HarryPotter.cs",
+              "DocumentMoniker": "C:\\Users\\Local-Admin\\source\\repos\\cps-practica\\PracticaClases\\HarryPotter.cs",
               "RelativeDocumentMoniker": "HarryPotter.cs",
-              "ToolTip": "C:\\Users\\Local-Admin\\source\\repos\\cps_web1\\PracticaClases\\HarryPotter.cs",
+              "ToolTip": "C:\\Users\\Local-Admin\\source\\repos\\cps-practica\\PracticaClases\\HarryPotter.cs",
               "RelativeToolTip": "HarryPotter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T13:04:04.909Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -54,24 +53,23 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ElSe\u00F1orDeLosAnillos.cs",
-              "DocumentMoniker": "C:\\Users\\Local-Admin\\source\\repos\\cps_web1\\PracticaClases\\ElSe\u00F1orDeLosAnillos.cs",
+              "DocumentMoniker": "C:\\Users\\Local-Admin\\source\\repos\\cps-practica\\PracticaClases\\ElSe\u00F1orDeLosAnillos.cs",
               "RelativeDocumentMoniker": "ElSe\u00F1orDeLosAnillos.cs",
-              "ToolTip": "C:\\Users\\Local-Admin\\source\\repos\\cps_web1\\PracticaClases\\ElSe\u00F1orDeLosAnillos.cs",
+              "ToolTip": "C:\\Users\\Local-Admin\\source\\repos\\cps-practica\\PracticaClases\\ElSe\u00F1orDeLosAnillos.cs",
               "RelativeToolTip": "ElSe\u00F1orDeLosAnillos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T13:47:21.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T13:47:21.21Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Libro.cs",
-              "DocumentMoniker": "C:\\Users\\Local-Admin\\source\\repos\\cps_web1\\PracticaClases\\Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Local-Admin\\source\\repos\\cps-practica\\PracticaClases\\Libro.cs",
               "RelativeDocumentMoniker": "Libro.cs",
-              "ToolTip": "C:\\Users\\Local-Admin\\source\\repos\\cps_web1\\PracticaClases\\Libro.cs",
+              "ToolTip": "C:\\Users\\Local-Admin\\source\\repos\\cps-practica\\PracticaClases\\Libro.cs",
               "RelativeToolTip": "Libro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T13:03:40.806Z",
               "EditorCaption": ""
@@ -80,11 +78,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Local-Admin\\source\\repos\\cps_web1\\PracticaClases\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Local-Admin\\source\\repos\\cps-practica\\PracticaClases\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Local-Admin\\source\\repos\\cps_web1\\PracticaClases\\Program.cs",
+              "ToolTip": "C:\\Users\\Local-Admin\\source\\repos\\cps-practica\\PracticaClases\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T13:03:16.784Z",
               "EditorCaption": ""
