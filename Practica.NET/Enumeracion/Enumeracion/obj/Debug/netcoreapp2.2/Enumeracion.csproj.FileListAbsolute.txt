@@ -1,0 +1,10 @@
+C:\Users\Local-Admin\source\repos\Enumeracion\Enumeracion\bin\Debug\netcoreapp2.2\Enumeracion.deps.json
+C:\Users\Local-Admin\source\repos\Enumeracion\Enumeracion\bin\Debug\netcoreapp2.2\Enumeracion.runtimeconfig.json
+C:\Users\Local-Admin\source\repos\Enumeracion\Enumeracion\bin\Debug\netcoreapp2.2\Enumeracion.runtimeconfig.dev.json
+C:\Users\Local-Admin\source\repos\Enumeracion\Enumeracion\bin\Debug\netcoreapp2.2\Enumeracion.dll
+C:\Users\Local-Admin\source\repos\Enumeracion\Enumeracion\bin\Debug\netcoreapp2.2\Enumeracion.pdb
+C:\Users\Local-Admin\source\repos\Enumeracion\Enumeracion\obj\Debug\netcoreapp2.2\Enumeracion.csproj.CoreCompileInputs.cache
+C:\Users\Local-Admin\source\repos\Enumeracion\Enumeracion\obj\Debug\netcoreapp2.2\Enumeracion.AssemblyInfoInputs.cache
+C:\Users\Local-Admin\source\repos\Enumeracion\Enumeracion\obj\Debug\netcoreapp2.2\Enumeracion.AssemblyInfo.cs
+C:\Users\Local-Admin\source\repos\Enumeracion\Enumeracion\obj\Debug\netcoreapp2.2\Enumeracion.dll
+C:\Users\Local-Admin\source\repos\Enumeracion\Enumeracion\obj\Debug\netcoreapp2.2\Enumeracion.pdb

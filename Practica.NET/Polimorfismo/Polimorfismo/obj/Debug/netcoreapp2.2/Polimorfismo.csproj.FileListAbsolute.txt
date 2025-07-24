@@ -1,0 +1,11 @@
+C:\Users\Local-Admin\source\repos\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp2.2\Polimorfismo.deps.json
+C:\Users\Local-Admin\source\repos\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp2.2\Polimorfismo.runtimeconfig.json
+C:\Users\Local-Admin\source\repos\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp2.2\Polimorfismo.runtimeconfig.dev.json
+C:\Users\Local-Admin\source\repos\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp2.2\Polimorfismo.dll
+C:\Users\Local-Admin\source\repos\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp2.2\Polimorfismo.pdb
+C:\Users\Local-Admin\source\repos\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp2.2\Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Local-Admin\source\repos\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp2.2\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Local-Admin\source\repos\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp2.2\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Local-Admin\source\repos\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp2.2\Polimorfismo.AssemblyInfo.cs
+C:\Users\Local-Admin\source\repos\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp2.2\Polimorfismo.dll
+C:\Users\Local-Admin\source\repos\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp2.2\Polimorfismo.pdb

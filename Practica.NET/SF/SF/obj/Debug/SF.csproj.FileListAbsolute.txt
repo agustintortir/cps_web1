@@ -1,0 +1,7 @@
+C:\Users\Local-Admin\source\repos\SF\SF\bin\Debug\SF.exe.config
+C:\Users\Local-Admin\source\repos\SF\SF\bin\Debug\SF.exe
+C:\Users\Local-Admin\source\repos\SF\SF\bin\Debug\SF.pdb
+C:\Users\Local-Admin\source\repos\SF\SF\obj\Debug\SF.csproj.AssemblyReference.cache
+C:\Users\Local-Admin\source\repos\SF\SF\obj\Debug\SF.csproj.CoreCompileInputs.cache
+C:\Users\Local-Admin\source\repos\SF\SF\obj\Debug\SF.exe
+C:\Users\Local-Admin\source\repos\SF\SF\obj\Debug\SF.pdb
