@@ -1,0 +1,11 @@
+C:\Users\Local-Admin\source\repos\ProyectoIntegrador\ProyectoIntegrador\bin\Debug\netcoreapp2.2\ProyectoIntegrador.deps.json
+C:\Users\Local-Admin\source\repos\ProyectoIntegrador\ProyectoIntegrador\bin\Debug\netcoreapp2.2\ProyectoIntegrador.runtimeconfig.json
+C:\Users\Local-Admin\source\repos\ProyectoIntegrador\ProyectoIntegrador\bin\Debug\netcoreapp2.2\ProyectoIntegrador.runtimeconfig.dev.json
+C:\Users\Local-Admin\source\repos\ProyectoIntegrador\ProyectoIntegrador\bin\Debug\netcoreapp2.2\ProyectoIntegrador.dll
+C:\Users\Local-Admin\source\repos\ProyectoIntegrador\ProyectoIntegrador\bin\Debug\netcoreapp2.2\ProyectoIntegrador.pdb
+C:\Users\Local-Admin\source\repos\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\netcoreapp2.2\ProyectoIntegrador.csproj.AssemblyReference.cache
+C:\Users\Local-Admin\source\repos\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\netcoreapp2.2\ProyectoIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\Local-Admin\source\repos\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\netcoreapp2.2\ProyectoIntegrador.AssemblyInfoInputs.cache
+C:\Users\Local-Admin\source\repos\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\netcoreapp2.2\ProyectoIntegrador.AssemblyInfo.cs
+C:\Users\Local-Admin\source\repos\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\netcoreapp2.2\ProyectoIntegrador.dll
+C:\Users\Local-Admin\source\repos\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\netcoreapp2.2\ProyectoIntegrador.pdb
