@@ -15,5 +15,13 @@ namespace Visitas.Models
             archivo.WriteLine("Nombre:" + nombre + "<br>Comentarios:" + comentarios + "<hr>");
             archivo.Close();
         }
+
+        public string Leer()
+        {
+            StreamReader archivo = new StreamReader(HostingEnvironment.MapPath ("~") + "/App_Data/datos.txt", true);
+            string contenido = archivo.ReadToEnd();
+            archivo.Close();
+            return contenido;
+        }
     }
 }

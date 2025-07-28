@@ -27,5 +27,13 @@ namespace Visitas.Controllers
             libro.Grabar(nombre, comentarios);
             return View();
         }
+
+        public ActionResult ListadoDeVisitas()
+        {
+            LibroDeVisitas libro = new LibroDeVisitas();
+            string contenido = libro.Leer();
+            ViewData["libro"] = contenido;
+            return View();
+        }
     }
 }
