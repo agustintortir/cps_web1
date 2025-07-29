@@ -1,0 +1,30 @@
+﻿@model IEnumerable<DBPractica.Models.Articulo> 
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+    <div>
+        <table class = "table">
+        <tr>
+            <th>Codigo</th>
+            <th>Descripcion</th>
+            <th>Precio</th>
+            <th>Borrar</th>
+            <th>Modificar</th>
+        </tr>
+
+            @foreach (var articulo in Model)
+            {
+        <tr>
+        <td>@articulo.Codigo</td>
+        <td>@articulo.Descripcion</td>
+        <td>@articulo.Precio</td>
+        <td><a href="/Home/Baja?cod=@articulo.Codigo">Borrar ?</a></td>
+        <td><a href="/Home/Modificacion?cod=@articulo.Codigo">Modificar ?</a></td>
+        </tr>
+            }
+            </table>
+        <a href="/Home/Alta">Agregar</a>
+    </div>

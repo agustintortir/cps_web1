@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "Modificacion";
+}
+
+<h2>Modificacion</h2>
+
+<div>
+    <form method="post" action="/Home/Modificacion">
+        <label>
+            Codigo: <br />
+            <input type="text" name="codigo" value="@Model.Codigo"  />
+        </label>
+        <br />
+        <label>
+            Descripcion: <br />
+            <input type="text" name="descripcion" value="@Model.Descripcion"  />
+        </label>
+        <br />
+        <label>
+            Precio: <br />
+            <input type="text" name="precio" value="@Model.Precio"  />
+        </label>
+        <br />
+        <input type="submit" value="Confirmar" />
+    </form>
+</div>
