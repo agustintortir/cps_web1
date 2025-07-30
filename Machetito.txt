@@ -1,0 +1,18 @@
+ViewResult Retorna una vista.
+ContentResult Retorna una cadena.
+RedirectToResult Redirige a la URL específica.
+RedirectToRouteResult Redirige a un método de acción diferente o un método
+de acción de controlador diferente.
+PartialViewResult Retorna una vista parcial.
+ViewComponentResult Retorna un componente de vista.
+FileResult Retorna un archivo.
+EmptyResult No retorna nada.
+JsonResult Retorna datos en formato JSON.
+HttpNotFoundResult Retorna la página de error 404 no encontrada.
+HttpStatusCodeResult Retorna un código de estado de respuesta HTTP y una
+descripción específicos.
+HttpUnauthorizedResult Retorna el código de estado HTTP 403.
+JavascriptResult Retorna un script para su ejecución.
+FileStreamResult Retorna el contenido del archivo.
+FilePathResult Retorna el contenido del archivo.
+FileContentResult Retorna el contenido del archivo.

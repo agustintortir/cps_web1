@@ -94,12 +94,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\ClienteController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\AdmArticulo.cs" />
+    <Compile Include="Models\AdmCliente.cs" />
     <Compile Include="Models\Articulo.cs" />
+    <Compile Include="Models\Cliente.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -110,6 +113,7 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\Alta.cshtml" />
     <Content Include="Views\Home\Modificacion.cshtml" />
+    <Content Include="Views\Cliente\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
