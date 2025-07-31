@@ -12,50 +12,71 @@ namespace WorldJourney.Controllers
 {
     public class CityController : Controller
     {
-        // GET: CityController
-        public ActionResult Index()
+
+        private IData _data { get; set; }
+        private IHostingEnvironment _environment { get; set; }
+
+        public CityController (IData data, IHostingEnvironment environment)
         {
+            _data = data;
+            _environment = environment;
+
+            data.CityInitializeData();
+        }
+
+        // GET: CityController
+        [Route("WorldJourney")]
+        public ActionResult Index()
+        { 
             ViewData["Page"] = "Search city";
             return View();
         }
 
         // GET: CityController/Details/5
-        public IActionResult Details(int id)
+        [Route("CityDetails/{id?}")]
+        public IActionResult Details(int? id)
         {
             ViewData["Page"] = "Selected city";
-            return View();
 
-            City city = null;
+            City city = _data.GetCityById(id);
 
             if (city == null)
             {
                 return NotFound();
             }
-            else { return View(city); }
+            else
+            {  
+                ViewBag.Title = city.CityName;
+                return View(city);
+            }
         }
 
 
 
         // GET: CityController/Create
-        public IActionResult GetImage()
+        public IActionResult GetImage(int? cityId)
         {
             ViewData["Message"] = "Display Image";
 
-            City requestedCity = null;
+            City requestedCity = _data.GetCityById(cityId);
 
             if(requestedCity != null)
             {
-                string fullPath = "";
+                string webRootPath = _environment.WebRootPath;
+                string folderPath = @"\images\";
+                string fullPath = (webRootPath + folderPath + requestedCity.ImageName);
+
                 FileStream fileOnDisk = new FileStream(fullPath, FileMode.Open);
+
                 byte[] fileBytes;
 
                 using (BinaryReader br = new BinaryReader(fileOnDisk))
                 {
                     fileBytes = br.ReadBytes((int)fileOnDisk.Length);
-                } //me quedé en el punto 19.
-            }
+                }
 
-            return View();
+                return File(fileBytes, requestedCity.ImageMimeType);
+            } else { return NotFound(); }
         }
 
         // POST: CityController/Create

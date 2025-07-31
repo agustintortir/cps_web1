@@ -3,15 +3,15 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using WorldJourney.Models;
 
 namespace WorldJourney.Controllers
 {
-    public class HomeController : Controller
+    public class TravelerController : Controller
     {
-        public IActionResult Index()
+        public IActionResult Index(string name)
         {
-            return RedirectToAction("Index", "City");
+            ViewBag.VisiterName =  name;
+            return View();
         }
     }
 }
