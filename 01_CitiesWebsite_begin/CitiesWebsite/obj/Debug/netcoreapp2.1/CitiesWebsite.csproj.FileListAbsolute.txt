@@ -1,0 +1,58 @@
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\bin\Debug\netcoreapp2.1\CitiesWebsite.deps.json
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\bin\Debug\netcoreapp2.1\CitiesWebsite.runtimeconfig.json
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\bin\Debug\netcoreapp2.1\CitiesWebsite.runtimeconfig.dev.json
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\bin\Debug\netcoreapp2.1\CitiesWebsite.dll
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.csprojAssemblyReference.cache
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.AssemblyInfoInputs.cache
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.AssemblyInfo.cs
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.RazorAssemblyInfo.cache
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.RazorAssemblyInfo.cs
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.RazorTargetAssemblyInfo.cache
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.genruntimeconfig.cache
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\bin\Debug\netcoreapp2.1\CitiesWebsite.pdb
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.csproj.CoreCompileInputs.cache
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.dll
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.pdb
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\bin\Debug\netcoreapp2.1\CitiesWebsite.Views.dll
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\bin\Debug\netcoreapp2.1\CitiesWebsite.Views.pdb
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.TagHelpers.input.cache
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.TagHelpers.output.cache
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.RazorCoreGenerate.cache
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\Razor\Views\City\ShowCities.cshtml.g.cs
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.RazorTargetAssemblyInfo.cs
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.Views.pdb
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.csproj.CopyComplete
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\Razor\Views\City\ShowDataForCity.cshtml.g.cs
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CityPopulation.cshtml.g.cs
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\City\SelectCity.cshtml.g.cs
+D:\ASPNET CORE MVC 20486\Allfiles\Mod05\Labfiles\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\create.cshtml.g.cs
+C:\Users\Local-Admin\source\repos\cps-practica\01_CitiesWebsite_begin\CitiesWebsite\bin\Debug\netcoreapp2.1\CitiesWebsite.deps.json
+C:\Users\Local-Admin\source\repos\cps-practica\01_CitiesWebsite_begin\CitiesWebsite\bin\Debug\netcoreapp2.1\CitiesWebsite.runtimeconfig.json
+C:\Users\Local-Admin\source\repos\cps-practica\01_CitiesWebsite_begin\CitiesWebsite\bin\Debug\netcoreapp2.1\CitiesWebsite.runtimeconfig.dev.json
+C:\Users\Local-Admin\source\repos\cps-practica\01_CitiesWebsite_begin\CitiesWebsite\bin\Debug\netcoreapp2.1\CitiesWebsite.dll
+C:\Users\Local-Admin\source\repos\cps-practica\01_CitiesWebsite_begin\CitiesWebsite\bin\Debug\netcoreapp2.1\CitiesWebsite.pdb
+C:\Users\Local-Admin\source\repos\cps-practica\01_CitiesWebsite_begin\CitiesWebsite\bin\Debug\netcoreapp2.1\CitiesWebsite.Views.dll
+C:\Users\Local-Admin\source\repos\cps-practica\01_CitiesWebsite_begin\CitiesWebsite\bin\Debug\netcoreapp2.1\CitiesWebsite.Views.pdb
+C:\Users\Local-Admin\source\repos\cps-practica\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.csproj.AssemblyReference.cache
+C:\Users\Local-Admin\source\repos\cps-practica\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Local-Admin\source\repos\cps-practica\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.RazorAssemblyInfo.cache
+C:\Users\Local-Admin\source\repos\cps-practica\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.RazorAssemblyInfo.cs
+C:\Users\Local-Admin\source\repos\cps-practica\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.AssemblyInfoInputs.cache
+C:\Users\Local-Admin\source\repos\cps-practica\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.AssemblyInfo.cs
+C:\Users\Local-Admin\source\repos\cps-practica\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.TagHelpers.input.cache
+C:\Users\Local-Admin\source\repos\cps-practica\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.TagHelpers.output.cache
+C:\Users\Local-Admin\source\repos\cps-practica\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.RazorCoreGenerate.cache
+C:\Users\Local-Admin\source\repos\cps-practica\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\Razor\Views\City\ShowCities.g.cshtml.cs
+C:\Users\Local-Admin\source\repos\cps-practica\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\Razor\Views\City\ShowDataForCity.g.cshtml.cs
+C:\Users\Local-Admin\source\repos\cps-practica\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\create.g.cshtml.cs
+C:\Users\Local-Admin\source\repos\cps-practica\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\City\SelectCity.g.cshtml.cs
+C:\Users\Local-Admin\source\repos\cps-practica\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CityPopulation.g.cshtml.cs
+C:\Users\Local-Admin\source\repos\cps-practica\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Local-Admin\source\repos\cps-practica\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\Local-Admin\source\repos\cps-practica\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\Local-Admin\source\repos\cps-practica\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.Views.pdb
+C:\Users\Local-Admin\source\repos\cps-practica\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.dll
+C:\Users\Local-Admin\source\repos\cps-practica\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.pdb
+C:\Users\Local-Admin\source\repos\cps-practica\01_CitiesWebsite_begin\CitiesWebsite\obj\Debug\netcoreapp2.1\CitiesWebsite.csproj.CopyComplete

@@ -7,6 +7,7 @@ using System.IO;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using WorldJourney.Filters;
 
 namespace WorldJourney.Controllers
 {
@@ -26,9 +27,11 @@ namespace WorldJourney.Controllers
 
         // GET: CityController
         [Route("WorldJourney")]
+        [ServiceFilter(typeof(LogActionFilterAttribute))]
         public ActionResult Index()
         { 
             ViewData["Page"] = "Search city";
+
             return View();
         }
 
