@@ -75,24 +75,28 @@ namespace ButterfliesShop.Controllers
         [HttpPost]
         public IActionResult Create(Butterfly butterfly)
         {
-            Butterfly lastButterfly = _data.ButterfliesList.LastOrDefault();
-            butterfly.CreatedDate = DateTime.Today;
-
-            if(butterfly.PhotoAvatar != null && butterfly.PhotoAvatar.Length > 0)
+            if (ModelState.IsValid == true)
             {
-                butterfly.ImageMimeType = butterfly.PhotoAvatar.ContentType;
-                butterfly.ImageName = Path.GetFileName(butterfly.PhotoAvatar.FileName);
-                butterfly.Id = lastButterfly.Id + 1;
-                _butterfliesQuantityService.AddButterfliesQuantityData(butterfly);
-                using (var memoryStream = new MemoryStream())
-                {
-                    butterfly.PhotoAvatar.CopyTo(memoryStream);
-                    butterfly.PhotoFile = memoryStream.ToArray();
-                }
-                _data.AddButterfly(butterfly);
-            }
+                Butterfly lastButterfly = _data.ButterfliesList.LastOrDefault();
+                butterfly.CreatedDate = DateTime.Today;
 
-            return RedirectToAction("Index");
+                if (butterfly.PhotoAvatar != null && butterfly.PhotoAvatar.Length > 0)
+                {
+                    butterfly.ImageMimeType = butterfly.PhotoAvatar.ContentType;
+                    butterfly.ImageName = Path.GetFileName(butterfly.PhotoAvatar.FileName);
+                    butterfly.Id = lastButterfly.Id + 1;
+                    _butterfliesQuantityService.AddButterfliesQuantityData(butterfly);
+                    using (var memoryStream = new MemoryStream())
+                    {
+                        butterfly.PhotoAvatar.CopyTo(memoryStream);
+                        butterfly.PhotoFile = memoryStream.ToArray();
+                    }
+                    _data.AddButterfly(butterfly);
+                }
+
+                return RedirectToAction("Index");
+            }
+            else { return View(butterfly); }
         }
         [HttpGet]
         public IActionResult Create()

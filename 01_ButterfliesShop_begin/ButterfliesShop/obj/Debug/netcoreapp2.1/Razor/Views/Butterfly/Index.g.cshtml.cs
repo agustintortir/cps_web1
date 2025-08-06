@@ -53,12 +53,12 @@ namespace AspNetCore
             WriteLiteral("\n<!DOCTYPE html>\n\n<html>\n");
             EndContext();
             BeginContext(91, 184, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "048eb5828bd14c80b4474733445ddea4", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "49a991475a0d45358d59dbbf841c73d5", async() => {
                 BeginContext(97, 88, true);
                 WriteLiteral("\n    <meta name=\"viewport\" content=\"width=device-width\" />\n    <title>Index</title>\n    ");
                 EndContext();
                 BeginContext(185, 82, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "b3de8d6cdd4a405d96f29318b07454f6", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "fb7e352066c141458867558f502976c1", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -93,7 +93,7 @@ namespace AspNetCore
             WriteLiteral("\n");
             EndContext();
             BeginContext(276, 1776, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1c3a7ce4137c4133ae3866bf9358c9ef", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f2344ee71d6547909c558d04bbde5a7d", async() => {
                 BeginContext(282, 242, true);
                 WriteLiteral("\n    <div class=\"container\">\n        <h1 class=\"main-title\"></h1>\n        <p class =\"into\">Welcome to our Web Store, Enjoy a wide variety of Butterflies</p>\n        <p class=\"into\">Our Butterflies in the Shop</p>\n        <button type=\"button\"");
                 EndContext();
