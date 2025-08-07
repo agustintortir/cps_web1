@@ -25,7 +25,11 @@ namespace Cupcakes.Data
                 new Bakery { BakeryId = 3, BakeryName = "Sugar Free", Adress = "232 as", Quantity = 30 },
                 new Bakery { BakeryId = 4, BakeryName = "Charles Street", Adress = "223 fsa", Quantity = 18 }
                 );
-            modelBuilder.Entity<Cupcake>().HasData(); //CONTINUARRR
+            modelBuilder.Entity<Cupcake>().HasData(
+                new Cupcake { CupcakeId = 1, CupcakeType = CupcakeType.Birthday, Description = "Vanilla cupcake with choco cream", GlutenFree = true, Price = 2.5, BakeryId = 1, ImageMimeType = "image/jpeg", ImageName = "turquesa-cupcake.jpg"  }  ,
+                new Cupcake { CupcakeId = 2, CupcakeType = CupcakeType.Chocolate, Description = "Chocolate cupcake with butter cream", GlutenFree = false, Price = 3.2, BakeryId = 2, ImageMimeType = "image/jpeg", ImageName = "chocolate-cupcake.jpg" },
+                new Cupcake { CupcakeId = 3, CupcakeType = CupcakeType.Strawberry, Description = "Strawberry cupcake with chocolate", GlutenFree = true, Price = 4, BakeryId = 3, ImageMimeType = "image/jpeg", ImageName = "pink-cupcake.jpg"  }
+                ); //CONTINUARRR
             
         }
     }

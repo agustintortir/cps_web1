@@ -3,15 +3,50 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
+using Cupcakes.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Hosting;
+using Cupcakes.Repositories;
+using Cupcakes.Models;
+using Microsoft.AspNetCore.Mvc.Rendering;
+
+
 
 namespace Cupcakes.Controllers
 {
     public class CupcakeController : Controller
+
     {
+        private ICupcakeRepositorio _repository;
+        private IHostingEnvironment _environment;
+
+        public CupcakeController(ICupcakeRepositorio repository, IHostingEnvironment environment)
+        {
+            _repository = repository;
+            _environment = environment;
+        }
         public IActionResult Index()
         {
-            return View();
+            return View(_repository.GetCupcakes());
+        }
+
+        public IActionResult Details(int id)
+        {
+            var cupcake = _repository.GetCupcakeById(id);
+
+            if (cupcake == null)
+            {
+                NotFound();
+            }
+
+            return View(cupcake);
+        }
+
+        private void PopulateBakeriesDropDownList(int? selectedBakery = null)
+        {
+            var bakeries = _repository.PopulateBakeriesDropDownList();
+            ViewBag.BakeryID = new SelectList(bakeries.AsNoTracking(), "BakeryId", "BakeryName", selectedBakery);
         }
 
         public IActionResult GetImage(int id)
@@ -20,7 +55,7 @@ namespace Cupcakes.Controllers
             if (requestedCupcake != null)
             {
                 string webRootpath = _environment.WebRootPath;
-                string folderPath = "\\images\\";
+                string folderPath = @"\images\";
                 string fullPath = webRootpath + folderPath + requestedCupcake.ImageName;
                 if (System.IO.File.Exists(fullPath))
                 {
@@ -32,22 +67,82 @@ namespace Cupcakes.Controllers
                     }
                     return File(fileBytes, requestedCupcake.ImageMimeType);
                 }
+                else if ((requestedCupcake.PhotoFile != null && requestedCupcake.PhotoFile.Length > 0))
+                {
+                    return File(requestedCupcake.PhotoFile, requestedCupcake.ImageMimeType);
+                }
                 else
                 {
-                    if (requestedCupcake.PhotoFile.Length > 0)
-                    {
-                        return File(requestedCupcake.PhotoFile, requestedCupcake.ImageMimeType);
-                    }
-                    else
-                    {
-                        return NotFound();
-                    }
+                    return NotFound();
                 }
-            }
-            else
+            } else
             {
                 return NotFound();
             }
         }
+
+    
+        [HttpGet]
+        public IActionResult Create ()
+        {
+            PopulateBakeriesDropDownList();
+            return View();
+        }
+        [HttpPost]
+        [ActionName(name:"Create")]
+        public IActionResult CreatePost(Cupcake cupcake)
+        {
+            if (ModelState.IsValid == true)
+            {
+                _repository.CreateCupcake(cupcake);
+                return RedirectToAction(nameof(Index));
+            }
+            PopulateBakeriesDropDownList(cupcake.BakeryId);
+            return View(cupcake);
+        }
+        [HttpGet]
+        public IActionResult Edit(int id)
+        {
+            Cupcake cupcake = _repository.GetCupcakeById(id);
+
+            if (cupcake == null)
+            {
+                NotFound();
+            }
+            PopulateBakeriesDropDownList(cupcake.BakeryId);
+            return View(cupcake);
+        }
+        [HttpPost]
+        [ActionName(name:"Edit")]
+        public async Task<IActionResult>EditPost(int id)
+        {
+            var cupcakeToUpdate = _repository.GetCupcakeById(id);
+            bool isUpdated = await TryUpdateModelAsync(cupcakeToUpdate, "", c => c.BakeryId, c => c.CupcakeType, c => c.Description, c => c.GlutenFree, c => c.Price);
+            if (isUpdated == true)
+            {
+                _repository.SaveChanges();
+                return RedirectToAction(nameof(Index));
+            }
+            return View(cupcakeToUpdate);
+        }
+        [HttpGet]
+        public IActionResult Delete(int id)
+        {
+            var cupcake = _repository.GetCupcakeById(id);
+            if (cupcake == null)
+            {
+                NotFound();
+            }
+            return View(cupcake);
+        }
+        [HttpPost]
+        [ActionName(name:"Delete")]
+        public IActionResult DeleteConfirmed (int id)
+        {
+            _repository.DeleteCupcake(id);
+            return RedirectToAction(nameof(Index));
+
+        }
+
     }
 }

@@ -1,4 +1,4 @@
-﻿@using Cupcakes.Models
+﻿@using Cupcakes.Models 
 @model Cupcakes.Models.Cupcake
 
 @{
@@ -20,7 +20,7 @@
             <div asp-validation-summary="ModelOnly"></div>
             <input type="hidden" asp-for="CupcakeId" />
             <div class="form-field">
-                <label asp-for="Bakery"></label>
+                <label asp-for="BakeryId"></label>
                 <select asp-for="BakeryId" asp-items="ViewBag.BakeryID">
                     <option selected="selected" value="">Select</option>
                 </select>

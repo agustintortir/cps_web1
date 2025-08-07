@@ -9,6 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Configuration;
 using Cupcakes.Data;
 using Microsoft.EntityFrameworkCore;
+using Cupcakes.Repositories;
 
 namespace Cupcakes
 {
@@ -16,6 +17,7 @@ namespace Cupcakes
     {
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddTransient<ICupcakeRepositorio, CupcakeRepository>();
             services.AddDbContext<CupcakeContext>(options => options.UseSqlite("Data Source=cupcake.db"));
             services.AddMvc();
         }
@@ -36,7 +38,7 @@ namespace Cupcakes
             });
         }
         private IConfiguration _configuration;
-        private Startup (IConfiguration configuration)
+        public Startup (IConfiguration configuration)
         {
             _configuration = configuration;
         }
