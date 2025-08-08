@@ -26,3 +26,4 @@ C:\Users\Local-Admin\source\repos\cps-practica\01_Cupcakes_begin\Cupcakes\bin\De
 C:\Users\Local-Admin\source\repos\cps-practica\01_Cupcakes_begin\Cupcakes\bin\Debug\netcoreapp2.1\Cupcakes.Views.pdb
 C:\Users\Local-Admin\source\repos\cps-practica\01_Cupcakes_begin\Cupcakes\obj\Debug\netcoreapp2.1\Cupcakes.Views.pdb
 C:\Users\Local-Admin\source\repos\cps-practica\01_Cupcakes_begin\Cupcakes\obj\Debug\netcoreapp2.1\Cupcakes.csproj.CopyComplete
+C:\Users\Local-Admin\source\repos\cps-practica\01_Cupcakes_begin\Cupcakes\bin\Debug\netcoreapp2.1\appsettings.json

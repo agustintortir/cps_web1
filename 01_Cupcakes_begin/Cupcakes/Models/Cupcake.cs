@@ -34,5 +34,7 @@ namespace Cupcakes.Models
         [Required(ErrorMessage = "Please select a bakery")]
         public int? BakeryId { get; set; }
         public Bakery bakery { get; set; }
+        [Display(Name ="Caloric Value:")]
+        public int CaloricValue { get; set; }
     }
 }
