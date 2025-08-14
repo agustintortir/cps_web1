@@ -17,3 +17,9 @@ C:\Users\Local-Admin\source\repos\cps-practica\01_ShirtStore_begin\ShirtStoreWeb
 C:\Users\Local-Admin\source\repos\cps-practica\01_ShirtStore_begin\ShirtStoreWebsite.Tests\obj\Debug\netcoreapp2.2\ShirtStoreWebsite.Tests.csproj.CopyComplete
 C:\Users\Local-Admin\source\repos\cps-practica\01_ShirtStore_begin\ShirtStoreWebsite.Tests\obj\Debug\netcoreapp2.2\ShirtStoreWebsite.Tests.dll
 C:\Users\Local-Admin\source\repos\cps-practica\01_ShirtStore_begin\ShirtStoreWebsite.Tests\obj\Debug\netcoreapp2.2\ShirtStoreWebsite.Tests.pdb
+C:\Users\atortiramirez\source\repos\cps-practica\01_ShirtStore_begin\ShirtStoreWebsite.Tests\obj\Debug\netcoreapp2.2\ShirtStoreWebsite.Tests.csproj.AssemblyReference.cache
+C:\Users\atortiramirez\source\repos\cps-practica\01_ShirtStore_begin\ShirtStoreWebsite.Tests\obj\Debug\netcoreapp2.2\ShirtStoreWebsite.Tests.csproj.CoreCompileInputs.cache
+C:\Users\atortiramirez\source\repos\cps-practica\01_ShirtStore_begin\ShirtStoreWebsite.Tests\obj\Debug\netcoreapp2.2\ShirtStoreWebsite.Tests.AssemblyInfoInputs.cache
+C:\Users\atortiramirez\source\repos\cps-practica\01_ShirtStore_begin\ShirtStoreWebsite.Tests\obj\Debug\netcoreapp2.2\ShirtStoreWebsite.Tests.AssemblyInfo.cs
+C:\Users\atortiramirez\source\repos\cps-practica\01_ShirtStore_begin\ShirtStoreWebsite.Tests\obj\Debug\netcoreapp2.2\ShirtStoreWebsite.Tests.dll
+C:\Users\atortiramirez\source\repos\cps-practica\01_ShirtStore_begin\ShirtStoreWebsite.Tests\obj\Debug\netcoreapp2.2\ShirtStoreWebsite.Tests.pdb

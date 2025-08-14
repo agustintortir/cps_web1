@@ -21,6 +21,21 @@ namespace ShirtStoreWebsite
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
-                .UseStartup<Startup>();
+            .ConfigureLogging((hostingContext, logging) =>
+            {
+                var env = hostingContext.HostingEnvironment;
+                var config = hostingContext.Configuration.GetSection("Registro");
+                logging.ClearProviders();
+                if (env.IsDevelopment())
+                {
+                    logging.AddConfiguration(config);
+                    logging.AddConsole();
+                } else
+                {
+                    logging.AddFile(config);
+                }
+            })
+            .UseStartup<Startup>();
+
     }
 }
