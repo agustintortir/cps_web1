@@ -10,6 +10,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using System.Security.Claims;
 using Library.Models;
 using Microsoft.AspNetCore.Identity;
 
@@ -37,6 +38,8 @@ namespace Library
                  options.UseSqlite("Data Source=library.db"));
 
             services.AddMvc();
+
+            services.AddAuthorization(options => { options.AddPolicy("RequireEmail", policy => policy.RequireClaim(ClaimTypes.Email)); });
         }
 
         public void Configure(IApplicationBuilder app, IHostingEnvironment env, LibraryContext libraryContext)

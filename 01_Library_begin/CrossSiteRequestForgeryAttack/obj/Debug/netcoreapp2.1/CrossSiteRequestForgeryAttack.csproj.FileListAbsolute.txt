@@ -1,0 +1,14 @@
+C:\Users\atortiramirez\source\repos\cps-practica\01_Library_begin\CrossSiteRequestForgeryAttack\bin\Debug\netcoreapp2.1\CrossSiteRequestForgeryAttack.deps.json
+C:\Users\atortiramirez\source\repos\cps-practica\01_Library_begin\CrossSiteRequestForgeryAttack\bin\Debug\netcoreapp2.1\CrossSiteRequestForgeryAttack.runtimeconfig.json
+C:\Users\atortiramirez\source\repos\cps-practica\01_Library_begin\CrossSiteRequestForgeryAttack\bin\Debug\netcoreapp2.1\CrossSiteRequestForgeryAttack.runtimeconfig.dev.json
+C:\Users\atortiramirez\source\repos\cps-practica\01_Library_begin\CrossSiteRequestForgeryAttack\bin\Debug\netcoreapp2.1\CrossSiteRequestForgeryAttack.dll
+C:\Users\atortiramirez\source\repos\cps-practica\01_Library_begin\CrossSiteRequestForgeryAttack\bin\Debug\netcoreapp2.1\CrossSiteRequestForgeryAttack.pdb
+C:\Users\atortiramirez\source\repos\cps-practica\01_Library_begin\CrossSiteRequestForgeryAttack\obj\Debug\netcoreapp2.1\CrossSiteRequestForgeryAttack.csproj.AssemblyReference.cache
+C:\Users\atortiramirez\source\repos\cps-practica\01_Library_begin\CrossSiteRequestForgeryAttack\obj\Debug\netcoreapp2.1\CrossSiteRequestForgeryAttack.csproj.CoreCompileInputs.cache
+C:\Users\atortiramirez\source\repos\cps-practica\01_Library_begin\CrossSiteRequestForgeryAttack\obj\Debug\netcoreapp2.1\CrossSiteRequestForgeryAttack.RazorAssemblyInfo.cache
+C:\Users\atortiramirez\source\repos\cps-practica\01_Library_begin\CrossSiteRequestForgeryAttack\obj\Debug\netcoreapp2.1\CrossSiteRequestForgeryAttack.RazorAssemblyInfo.cs
+C:\Users\atortiramirez\source\repos\cps-practica\01_Library_begin\CrossSiteRequestForgeryAttack\obj\Debug\netcoreapp2.1\CrossSiteRequestForgeryAttack.AssemblyInfoInputs.cache
+C:\Users\atortiramirez\source\repos\cps-practica\01_Library_begin\CrossSiteRequestForgeryAttack\obj\Debug\netcoreapp2.1\CrossSiteRequestForgeryAttack.AssemblyInfo.cs
+C:\Users\atortiramirez\source\repos\cps-practica\01_Library_begin\CrossSiteRequestForgeryAttack\obj\Debug\netcoreapp2.1\CrossSiteRequestForgeryAttack.RazorTargetAssemblyInfo.cache
+C:\Users\atortiramirez\source\repos\cps-practica\01_Library_begin\CrossSiteRequestForgeryAttack\obj\Debug\netcoreapp2.1\CrossSiteRequestForgeryAttack.dll
+C:\Users\atortiramirez\source\repos\cps-practica\01_Library_begin\CrossSiteRequestForgeryAttack\obj\Debug\netcoreapp2.1\CrossSiteRequestForgeryAttack.pdb

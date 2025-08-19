@@ -139,7 +139,7 @@ WriteAttributeValue("", 816, Url.Action("GetImage", "Library", new { id = item.I
             WriteLiteral("\n                </div>\n            </div>\n            <div class=\"col-2\">\n                <div class=\"row\">\n                    ");
             EndContext();
             BeginContext(1564, 67, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "080057486394408d8dcb544d34d9bd77", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2bb81acf5df640ca9978a7bb13eaf669", async() => {
                 BeginContext(1616, 11, true);
                 WriteLiteral("Lend a Book");
                 EndContext();
