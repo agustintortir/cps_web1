@@ -6,21 +6,4 @@
 <div class="text-center">
     <a class="btn btn-info" href="@Url.Action("AddBook", "Librarian", null, "http")">Add Book</a>
 </div>
-@if (User.Identity.IsAuthenticated)
-{
-    <div>
-        <h3>Claims del usuario:</h3>
-        <ul>
-            @foreach (var claim in User.Claims)
-            {
-                <li>@claim.Type: @claim.Value</li>
-            }
-        </ul>
 
-        <h3>¿Es admin?: @User.IsInRole("Administrator")</h3>
-    </div>
-}
-else
-{
-    <p>No estás autenticado.</p>
-}

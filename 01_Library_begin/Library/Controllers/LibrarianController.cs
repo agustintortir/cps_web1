@@ -43,6 +43,7 @@ namespace Library.Controllers
         }
 
         [HttpPost, ActionName("AddBook")]
+        [ValidateAntiForgeryToken]
         public IActionResult AddBookPost(Book book)
         {
             if (ModelState.IsValid)
