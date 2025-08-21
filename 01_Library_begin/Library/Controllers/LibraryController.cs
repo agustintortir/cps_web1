@@ -31,7 +31,7 @@ namespace Library.Controllers
                              where b.Recommended == true
                              orderby b.Author
                              select b;
-
+            
             return View(booksQuery);
         }
         

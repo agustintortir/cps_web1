@@ -35,7 +35,7 @@ namespace Library
                 options.User.RequireUniqueEmail = true;
             }).AddEntityFrameworkStores<LibraryContext>();
             services.AddDbContext<LibraryContext>(options =>
-                 options.UseSqlite("Data Source=library.db"));
+                 options.UseSqlServer(_configuration.GetConnectionString("DefaultConnection")));
 
             services.AddMvc();
 
@@ -44,9 +44,6 @@ namespace Library
 
         public void Configure(IApplicationBuilder app, IHostingEnvironment env, LibraryContext libraryContext)
         {
-            libraryContext.Database.EnsureDeleted();
-            libraryContext.Database.EnsureCreated();
-
             app.UseStaticFiles();
 
             app.UseAuthentication();
