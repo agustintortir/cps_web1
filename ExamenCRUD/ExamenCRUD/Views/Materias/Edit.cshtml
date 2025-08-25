@@ -1,0 +1,36 @@
+﻿@model ExamenCRUD.Models.Materia
+@{
+    ViewData["Title"] = "Editar Materia";
+}
+<h2>Editar Materia</h2>
+<hr />
+<form asp-action="Edit" method="post" class="row g-3">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="col-md-6">
+        <label asp-for="Nombre" class="form-label"></label>
+        <input asp-for="Nombre" class="form-control" />
+        <span asp-validation-for="Nombre" class="text-danger"></span>
+    </div>
+
+    <div class="col-md-3">
+        <label asp-for="Cuatrimestre" class="form-label"></label>
+        <input asp-for="Cuatrimestre" class="form-control" />
+        <span asp-validation-for="Cuatrimestre" class="text-danger"></span>
+    </div>
+
+    <div class="col-md-3">
+        <label asp-for="CarreraId" class="form-label">Carrera</label>
+        <select asp-for="CarreraId" class="form-select" asp-items="ViewBag.CarreraId"></select>
+        <span asp-validation-for="CarreraId" class="text-danger"></span>
+    </div>
+
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">Guardar cambios</button>
+        <a asp-action="Index" class="btn btn-outline-secondary">Volver</a>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|c:\\users\\atortiramirez\\source\\repos\\cps-practica\\examencrud\\examencrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|solutionrelative:examencrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|c:\\users\\atortiramirez\\source\\repos\\cps-practica\\examencrud\\examencrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|solutionrelative:examencrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|c:\\users\\atortiramirez\\source\\repos\\cps-practica\\examencrud\\examencrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|solutionrelative:examencrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|c:\\users\\atortiramirez\\source\\repos\\cps-practica\\examencrud\\examencrud\\controllers\\materiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|solutionrelative:examencrud\\controllers\\materiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|c:\\users\\atortiramirez\\source\\repos\\cps-practica\\examencrud\\examencrud\\views\\materias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|solutionrelative:examencrud\\views\\materias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|c:\\users\\atortiramirez\\source\\repos\\cps-practica\\examencrud\\examencrud\\views\\materias\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|solutionrelative:examencrud\\views\\materias\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|c:\\users\\atortiramirez\\source\\repos\\cps-practica\\examencrud\\examencrud\\views\\materias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|solutionrelative:examencrud\\views\\materias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|c:\\users\\atortiramirez\\source\\repos\\cps-practica\\examencrud\\examencrud\\views\\materias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|solutionrelative:examencrud\\views\\materias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|c:\\users\\atortiramirez\\source\\repos\\cps-practica\\examencrud\\examencrud\\views\\materias\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|solutionrelative:examencrud\\views\\materias\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|c:\\users\\atortiramirez\\source\\repos\\cps-practica\\examencrud\\examencrud\\views\\materias\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|solutionrelative:examencrud\\views\\materias\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|c:\\users\\atortiramirez\\source\\repos\\cps-practica\\examencrud\\examencrud\\models\\materiaconcarreradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|solutionrelative:examencrud\\models\\materiaconcarreradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|c:\\users\\atortiramirez\\source\\repos\\cps-practica\\examencrud\\examencrud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|solutionrelative:examencrud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|c:\\users\\atortiramirez\\source\\repos\\cps-practica\\examencrud\\examencrud\\models\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|solutionrelative:examencrud\\models\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|c:\\users\\atortiramirez\\source\\repos\\cps-practica\\examencrud\\examencrud\\models\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|solutionrelative:examencrud\\models\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|c:\\users\\atortiramirez\\source\\repos\\cps-practica\\examencrud\\examencrud\\examencrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|solutionrelative:examencrud\\examencrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|c:\\users\\atortiramirez\\source\\repos\\cps-practica\\examencrud\\examencrud\\migrations\\20250825122412_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9D333D-458B-4F93-AA10-CF09A9D204FA}|ExamenCRUD\\ExamenCRUD.csproj|solutionrelative:examencrud\\migrations\\20250825122412_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Views\\Materias\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ExamenCRUD\\Views\\Materias\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Views\\Materias\\Delete.cshtml",
+              "RelativeToolTip": "ExamenCRUD\\Views\\Materias\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwDAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T11:52:42.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Views\\Materias\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "ExamenCRUD\\Views\\Materias\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Views\\Materias\\Edit.cshtml.cs",
+              "RelativeToolTip": "ExamenCRUD\\Views\\Materias\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:52:41.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Views\\Materias\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ExamenCRUD\\Views\\Materias\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Views\\Materias\\Edit.cshtml",
+              "RelativeToolTip": "ExamenCRUD\\Views\\Materias\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T11:52:41.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Views\\Materias\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "ExamenCRUD\\Views\\Materias\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Views\\Materias\\Create.cshtml.cs",
+              "RelativeToolTip": "ExamenCRUD\\Views\\Materias\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:52:41.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "ExamenCRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Program.cs",
+              "RelativeToolTip": "ExamenCRUD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:16:44.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ExamenCRUD\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ExamenCRUD\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T11:30:42.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Views\\Materias\\Create.cshtml",
+              "RelativeDocumentMoniker": "ExamenCRUD\\Views\\Materias\\Create.cshtml",
+              "ToolTip": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Views\\Materias\\Create.cshtml",
+              "RelativeToolTip": "ExamenCRUD\\Views\\Materias\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T11:52:41.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MateriasController.cs",
+              "DocumentMoniker": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Controllers\\MateriasController.cs",
+              "RelativeDocumentMoniker": "ExamenCRUD\\Controllers\\MateriasController.cs",
+              "ToolTip": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Controllers\\MateriasController.cs",
+              "RelativeToolTip": "ExamenCRUD\\Controllers\\MateriasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:29:39.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MateriaConCarreraDto.cs",
+              "DocumentMoniker": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Models\\MateriaConCarreraDto.cs",
+              "RelativeDocumentMoniker": "ExamenCRUD\\Models\\MateriaConCarreraDto.cs",
+              "ToolTip": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Models\\MateriaConCarreraDto.cs",
+              "RelativeToolTip": "ExamenCRUD\\Models\\MateriaConCarreraDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:19:13.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "ExamenCRUD\\appsettings.json",
+              "ToolTip": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\appsettings.json",
+              "RelativeToolTip": "ExamenCRUD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-25T11:16:27.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Views\\Materias\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExamenCRUD\\Views\\Materias\\Index.cshtml",
+              "ToolTip": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Views\\Materias\\Index.cshtml",
+              "RelativeToolTip": "ExamenCRUD\\Views\\Materias\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T12:09:28.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250825122412_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Migrations\\20250825122412_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ExamenCRUD\\Migrations\\20250825122412_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Migrations\\20250825122412_InitialCreate.cs",
+              "RelativeToolTip": "ExamenCRUD\\Migrations\\20250825122412_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:24:13.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Materia.cs",
+              "DocumentMoniker": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Models\\Materia.cs",
+              "RelativeDocumentMoniker": "ExamenCRUD\\Models\\Materia.cs",
+              "ToolTip": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Models\\Materia.cs",
+              "RelativeToolTip": "ExamenCRUD\\Models\\Materia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:18:51.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Carrera.cs",
+              "DocumentMoniker": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Models\\Carrera.cs",
+              "RelativeDocumentMoniker": "ExamenCRUD\\Models\\Carrera.cs",
+              "ToolTip": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Models\\Carrera.cs",
+              "RelativeToolTip": "ExamenCRUD\\Models\\Carrera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:18:42.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ExamenCRUD\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ExamenCRUD\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:18:13.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExamenCRUD.csproj",
+              "DocumentMoniker": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\ExamenCRUD.csproj",
+              "RelativeDocumentMoniker": "ExamenCRUD\\ExamenCRUD.csproj",
+              "ToolTip": "C:\\Users\\atortiramirez\\source\\repos\\cps-practica\\ExamenCRUD\\ExamenCRUD\\ExamenCRUD.csproj",
+              "RelativeToolTip": "ExamenCRUD\\ExamenCRUD.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-25T11:17:28.015Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

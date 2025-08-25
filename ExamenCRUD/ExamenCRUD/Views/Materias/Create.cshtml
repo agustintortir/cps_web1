@@ -1,0 +1,36 @@
+﻿@model ExamenCRUD.Models.Materia
+@{
+    ViewData["Title"] = "Nueva Materia";
+}
+<h2>Nueva Materia</h2>
+<hr />
+<form asp-action="Create" method="post" class="row g-3">
+    <div class="col-md-6">
+        <label asp-for="Nombre" class="form-label"></label>
+        <input asp-for="Nombre" class="form-control" />
+        <span asp-validation-for="Nombre" class="text-danger"></span>
+    </div>
+
+    <div class="col-md-3">
+        <label asp-for="Cuatrimestre" class="form-label"></label>
+        <input asp-for="Cuatrimestre" class="form-control" placeholder="Primero / Segundo" />
+        <span asp-validation-for="Cuatrimestre" class="text-danger"></span>
+    </div>
+
+    <div class="col-md-3">
+        <label asp-for="CarreraId" class="form-label">Carrera</label>
+        <select asp-for="CarreraId" class="form-select" asp-items="ViewBag.CarreraId">
+            <option value="">-- Seleccione --</option>
+        </select>
+        <span asp-validation-for="CarreraId" class="text-danger"></span>
+    </div>
+
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">Guardar</button>
+        <a asp-action="Index" class="btn btn-outline-secondary">Cancelar</a>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
